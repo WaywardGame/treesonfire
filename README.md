@@ -1,9 +1,9 @@
-# developertools
+# treesonfire
 
 # Cloning:
 ```
-  git clone https://github.com/WaywardGame/developertools.git
-  cd developertools
+  git clone https://github.com/WaywardGame/treesonfire.git
+  cd treesonfire
   git submodule update --init
 ```
 
