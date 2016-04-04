@@ -1,6 +1,6 @@
 {
 	"name": "Trees on Fire",
-	"description": "Example mod to show how to override default game textures",
+	"description": "Example mod to show how to override default game textures.",
 	"version": "1.0.0",
 	"author": "Spacetech",
 	"files": [
