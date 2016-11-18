@@ -3,9 +3,7 @@
 	"description": "Example mod to show how to override default game textures.",
 	"version": "1.0.0",
 	"author": "Spacetech",
-	"files": [
-		"treesonfire.js"
-	],
+	"file": "treesonfire.js",
 	"unloadable": true,
 	"image_overrides": [
 		"images/doodad/tree.png"
