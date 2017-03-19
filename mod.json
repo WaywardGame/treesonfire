@@ -1,11 +1,8 @@
 {
 	"name": "Trees on Fire",
 	"description": "Example mod to show how to override default game textures.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"author": "Spacetech",
-	"file": "treesonfire.js",
 	"unloadable": true,
-	"image_overrides": [
-		"images/doodad/tree.png"
-	]
+	"imageOverrides": true
 }
