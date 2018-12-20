@@ -5,6 +5,6 @@
 	"author": "Spacetech",
 	"imageOverrides": true,
 	"compatibleMinorVersions": [
-		5, 6
+		5, 6, 7
 	]
 }
