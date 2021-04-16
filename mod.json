@@ -3,5 +3,6 @@
 	"description": "Example mod to show how to override default game textures.",
 	"version": "1.1.1",
 	"author": "Spacetech",
+	"github": "https://github.com/WaywardGame/treesonfire",
 	"imageOverrides": true
 }
